@@ -15,6 +15,7 @@ npm install
 *В корневой папке проекта*
 
 ```
+npm install
 npm run start
 ```
 
